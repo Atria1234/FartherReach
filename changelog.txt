@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2023-08-04
+  Features:
+    - Removed maximum limits of far-reach's mod settings

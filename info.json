@@ -1,0 +1,11 @@
+{
+	"name": "farther-reach",
+	"version": "1.0.0",
+	"title": "Farther Reach",
+	"author": "Atria",
+	"contact": "tomas.chmelik2@gmail.com",
+	"homepage": "https://github.com/Atria1234/FartherReach",
+	"factorio_version": "1.1",
+	"dependencies": ["base >= 0.15.0", "far-reach"],
+	"description": "Removes maximum limits of Far React's mod settings"
+}
